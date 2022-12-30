@@ -30,6 +30,8 @@ After period of coding, it is time to test plan. The testing is considering the 
 ●●●●
 
 Mathematics is a science until the stage of vision, then it is turned into magical fiction. Accordingly, we decided to illustrate a visualization for our second ordinary differential equation by plotting the data into a graph as shown by function ezplot(ySol).
+
+
 ![code](https://user-images.githubusercontent.com/101527083/210114289-d5cc4ce4-011d-4210-92a0-2f2e1dedc50b.jpeg)
 
 
