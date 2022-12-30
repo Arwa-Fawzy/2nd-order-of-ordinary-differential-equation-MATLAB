@@ -3,7 +3,7 @@
 The present work aims to create a program to solve Ordinary differential equations of the second order. Using MathWorks compiler — where the sympy library is already imported, sympy was just imported as sp.  Additionally, from sympy * (all) was imported.
   ### Writing the program included some procedures: 
 	1. First, defining y as a function of x: syms y(x)
-	   Then, defining the coefficients of y'', y’ and y as input functions
+	   Then, defining the coefficients of y'', y' and y as input functions
           coff1 = input("cofficcient 1: ");
           coff2 = input("cofficcient 2: ");
           coff3 = input("cofficcient 3: ");
@@ -35,10 +35,7 @@ Mathematics is a science until the stage of vision, then it is turned into magic
 
 □□□□□□□
 
-## Credits 
-This project was created by Ahmed Abdelmalek, assistant professor at E-JUST University, on 20 Decemeber 2022.
 
-This code was written by Arwa Fawzy, 31 December 2022.
 
 
 
